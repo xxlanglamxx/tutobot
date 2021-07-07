@@ -80,3 +80,5 @@ client.on('channelCreate', channel => {
         ADD_REACTIONS: false
     })
 })
+
+client.login(process.env.TOKEN);
