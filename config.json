@@ -1,0 +1,12 @@
+{
+    "token": "ODYxOTU0NTAwNTUwMzI4MzUw.YORTrw.ycxzPg8VomcXlEqXzUE-fl-D3Jc",
+    "prefix": "!",
+    "greeting": {
+        "channel": "844974872689901608",
+        "role": "844673722363281478"
+    },
+    "cooldown": {
+        "723998402395767288": 1e4,
+        "723998419986808883": 3e4
+    }
+}
