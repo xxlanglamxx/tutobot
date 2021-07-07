@@ -11,5 +11,8 @@
   "dependencies": {
     "discord.js": "^12.5.3",
     "moment": "^2.29.1"
-  }
+  },
+"scripts":{
+   "start": "node index.js"
+ }
 }
